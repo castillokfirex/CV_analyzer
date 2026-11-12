@@ -1,0 +1,14 @@
+.git
+.gitignore
+.venv
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+.env
+postgres_data
+pgadmin_data
+*.md
+!app/intermedio/cv_analyzer/README.md
